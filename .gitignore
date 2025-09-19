@@ -1,0 +1,26 @@
+# Development files
+.DS_Store
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+/tmp/
+
+# Node modules (if any)
+node_modules/
+
+# Build artifacts
+dist/
+build/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+
+# Log files
+*.log
+
+# Cache files
+.cache/__pycache__/
