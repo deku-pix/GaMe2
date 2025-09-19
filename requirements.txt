@@ -1,0 +1,11 @@
+# Neon Snake Game - Hugging Face Spaces Dependencies
+# 
+# This game can be deployed in two ways:
+# 1. As a Static HTML Space (recommended) - no Python dependencies needed
+# 2. As a Python Flask app (using app.py) - requires the dependencies below
+
+# For Flask deployment (optional):
+flask==2.3.3
+
+# For static HTML deployment, no dependencies are required
+# The game runs entirely in the browser with vanilla HTML, CSS, and JavaScript
