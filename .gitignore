@@ -23,4 +23,4 @@ ehthumbs.db
 *.log
 
 # Cache files
-.cache/
+.cache/__pycache__/
